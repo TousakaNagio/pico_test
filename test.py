@@ -1,5 +1,5 @@
 # pico_test
 
 print("hello world")
-print("have sex!")
+print("have safe sex!")
 print("from github")
